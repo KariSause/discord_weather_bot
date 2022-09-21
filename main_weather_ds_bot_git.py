@@ -72,8 +72,5 @@ async def on_message(message):
          print('Just chat')
     
     
-     
       
-
-
 client.run(token_per_bot)
